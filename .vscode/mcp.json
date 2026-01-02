@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "weather": {
+      "command": "node",
+      "args": ["/home/hau/Documents/my-mcp-server/build/index.js"]
+    }
+  }
+}
